@@ -1,4 +1,4 @@
-# add_remove_widget
+# add-remove-widget
 
 A new Flutter project.
 
