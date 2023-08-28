@@ -14,11 +14,6 @@ class _pageViewState extends State<pageView> {
   List<String>Product = [];
 
   addDynamic(){
-    if(Product.length != 0){
-      Product = [];
-      Price = [];
-      dynamicList = [];
-    }
     setState(() {});
     if (dynamicList.length >= 10) {
       return;
